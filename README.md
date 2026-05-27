@@ -13,6 +13,7 @@ You may follow the order from [datanerd.tech](https://datanerd.tech/), in accord
   * For overview start with [30min-statistics YT-Vid](https://youtu.be/kyjlxsLW1Is?si=ZgcHleNAboIeQcyj)
   * [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
   * Practice with [kaggle datasets](https://www.kaggle.com/datasets)
+  * By NPTEL [IIT Roorkee](https://www.youtube.com/watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv)
 * **SQL**
   * [sql-zoo](https://sqlzoo.net/wiki/SQL_Tutorial) | [SQLBolt](https://sqlbolt.com/lesson/introduction)
   * [postsql docs](https://www.postgresql.org/docs/current/sql.html) | [Dr Chuck](https://www.pg4e.com/)
