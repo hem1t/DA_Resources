@@ -17,7 +17,15 @@ You may follow the order from [datanerd.tech](https://datanerd.tech/), in accord
 * **SQL**
   * [sql-zoo](https://sqlzoo.net/wiki/SQL_Tutorial) | [SQLBolt](https://sqlbolt.com/lesson/introduction)
   * [postsql docs](https://www.postgresql.org/docs/current/sql.html) | [Dr Chuck](https://www.pg4e.com/)
+  * [Online Playground](https://www.sqltutorial.org/playground/)
 * **Py Libs**
   * [pandas 10min](https://pandas.pydata.org/docs/user_guide/10min.html#min)
   * [seaborn gallery](https://seaborn.pydata.org/examples/index.html)
-* **
+* **SpreadSheets**
+  * [Google Sheets Guide](https://support.google.com/a/users/answer/9282959)
+  * [Microsoft Excel](https://support.microsoft.com/en-us/office/what-is-excel-94b00f50-5896-479c-b0c5-ff74603b35a3)
+  * [LibreOffice Calc Guide](https://books.libreoffice.org/en/CG72/CG72.html)
+* **Visuals**
+  * [Tableau](https://public.tableau.com/app/learn/how-to-videos)
+  * [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+  * [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
