@@ -12,6 +12,7 @@ You may follow the order from [datanerd.tech](https://datanerd.tech/), in accord
 * **Statistics**
   * For overview start with [30min-statistics YT-Vid](https://youtu.be/kyjlxsLW1Is?si=ZgcHleNAboIeQcyj)
   * [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
+  * [Probability Bootcamp](https://www.youtube.com/watch?v=m7hI2LulMxE&list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V): I love acoustic peoples.
   * Practice with [kaggle datasets](https://www.kaggle.com/datasets)
   * By NPTEL [IIT Roorkee](https://www.youtube.com/watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv)
 * **SQL**
